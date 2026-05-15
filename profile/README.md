@@ -1,4 +1,4 @@
-# Saber
+# Saber Offshore
 
 **Re-engineering subsea infrastructure.**
 
@@ -11,7 +11,3 @@ It's a domain where mistakes are expensive and certification matters, so correct
 ## Stack
 
 .NET · ASP.NET Core · PostgreSQL · Azure · Aspire · TypeScript · Next.js
-
-## Contact
-
-[saber-offshore.ai](https://saber-offshore.ai)
